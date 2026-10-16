@@ -39,9 +39,16 @@ function App() {
           <a href="#how-it-works">How it works</a>
         </nav>
 
-        <a className="nav-download" href="/CleanFlow-Setup.exe" download>
-          Download <span>↗</span>
-        </a>
+        
+<a
+  className="nav-download"
+  href="https://github.com/Tanish-77/CleanFlow-Website/releases/download/v1.0.0/CleanFlow%20Setup.exe"
+  target="_blank"
+  rel="noopener noreferrer"
+>
+  Download <span>↗</span>
+</a>
+
       </header>
 
       <main>
@@ -64,9 +71,16 @@ function App() {
             </p>
 
             <div className="hero-actions">
-              <a className="primary-button" href="/CleanFlow-Setup.exe" download>
-                <span>↓</span> Download CleanFlow
-              </a>
+              
+<a
+  className="nav-download"
+  href="https://github.com/Tanish-77/CleanFlow-Website/releases/download/v1.0.0/CleanFlow%20Setup.exe"
+  target="_blank"
+  rel="noopener noreferrer"
+>
+  Download <span>↗</span>
+</a>
+
               <a className="secondary-button" href="#features">
                 Explore features <span>↘</span>
               </a>
@@ -162,9 +176,16 @@ function App() {
             <div className="eyebrow">THREE SIMPLE STEPS</div>
             <h2>PC maintenance, <span>made simple.</span></h2>
             <p>CleanFlow keeps the experience straightforward, so you can review scan results and decide what works for you.</p>
-            <a className="primary-button" href="/CleanFlow-Setup.exe" download>
-              Get CleanFlow <span>↓</span>
-            </a>
+          
+<a
+  className="nav-download"
+  href="https://github.com/Tanish-77/CleanFlow-Website/releases/download/v1.0.0/CleanFlow%20Setup.exe"
+  target="_blank"
+  rel="noopener noreferrer"
+>
+  Download <span>↗</span>
+</a>
+
           </div>
           <div className="steps">
             <div className="step"><span>01</span><div><h3>Download & install</h3><p>Install CleanFlow on your compatible Windows PC.</p></div></div>
@@ -178,9 +199,16 @@ function App() {
           <div className="eyebrow">READY WHEN YOU ARE</div>
           <h2>A fresh start for your PC.</h2>
           <p>Download CleanFlow and explore a simpler PC maintenance experience.</p>
-          <a className="primary-button download-final" href="/CleanFlow-Setup.exe" download>
-            ↓ &nbsp; Download CleanFlow
-          </a>
+          
+<a
+  className="nav-download"
+  href="https://github.com/Tanish-77/CleanFlow-Website/releases/download/v1.0.0/CleanFlow%20Setup.exe"
+  target="_blank"
+  rel="noopener noreferrer"
+>
+  Download <span>↗</span>
+</a>
+
           <small>Windows desktop application · Version 1.0.0</small>
         </section>
       </main>
