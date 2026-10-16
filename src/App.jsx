@@ -42,7 +42,7 @@ function App() {
         
 <a
   className="nav-download"
-  href="https://github.com/Tanish-77/CleanFlow-Website/releases/download/v1.0.0/CleanFlow%20Setup.exe"
+  href="https://github.com/Tanish-77/CleanFlow-Website/releases/download/v1.0.0/CleanFlow-Setup.exe"
   target="_blank"
   rel="noopener noreferrer"
 >
@@ -74,7 +74,7 @@ function App() {
               
 <a
   className="nav-download"
-  href="https://github.com/Tanish-77/CleanFlow-Website/releases/download/v1.0.0/CleanFlow%20Setup.exe"
+  href="https://github.com/Tanish-77/CleanFlow-Website/releases/download/v1.0.0/CleanFlow-Setup.exe"
   target="_blank"
   rel="noopener noreferrer"
 >
@@ -179,7 +179,7 @@ function App() {
           
 <a
   className="nav-download"
-  href="https://github.com/Tanish-77/CleanFlow-Website/releases/download/v1.0.0/CleanFlow%20Setup.exe"
+  href="https://github.com/Tanish-77/CleanFlow-Website/releases/download/v1.0.0/CleanFlow-Setup.exe"
   target="_blank"
   rel="noopener noreferrer"
 >
@@ -200,14 +200,16 @@ function App() {
           <h2>A fresh start for your PC.</h2>
           <p>Download CleanFlow and explore a simpler PC maintenance experience.</p>
           
+
 <a
   className="nav-download"
-  href="https://github.com/Tanish-77/CleanFlow-Website/releases/download/v1.0.0/CleanFlow%20Setup.exe"
+  href="https://github.com/Tanish-77/CleanFlow-Website/releases/download/v1.0.0/CleanFlow-Setup.exe"
   target="_blank"
   rel="noopener noreferrer"
 >
   Download <span>↗</span>
 </a>
+
 
           <small>Windows desktop application · Version 1.0.0</small>
         </section>
